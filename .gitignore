@@ -1,0 +1,9 @@
+# JWT certificates - keep private key secure
+certs/server.key
+
+# Salesforce CLI
+.sf/
+.sfdx/
+
+# OS files
+.DS_Store
